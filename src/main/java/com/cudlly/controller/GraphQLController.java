@@ -5,7 +5,6 @@ import com.cudlly.entity.ProductInput;
 import com.cudlly.model.ProductDto;
 import com.cudlly.repository.ProductRepo;
 import com.cudlly.service.ProductService;
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.MutationMapping;
